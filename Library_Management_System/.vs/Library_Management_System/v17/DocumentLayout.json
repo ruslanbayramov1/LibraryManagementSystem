@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\AB108\\Library_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7355CCE0-D12A-4484-B852-956509C254E9}|Library_Management_System.csproj|c:\\users\\i novbe\\desktop\\ab108\\library_management_system\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7355CCE0-D12A-4484-B852-956509C254E9}|Library_Management_System.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7355CCE0-D12A-4484-B852-956509C254E9}|Library_Management_System.csproj|c:\\users\\i novbe\\desktop\\ab108\\library_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7355CCE0-D12A-4484-B852-956509C254E9}|Library_Management_System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7355CCE0-D12A-4484-B852-956509C254E9}|Library_Management_System.csproj|c:\\users\\i novbe\\desktop\\ab108\\library_management_system\\libraryperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7355CCE0-D12A-4484-B852-956509C254E9}|Library_Management_System.csproj|solutionrelative:libraryperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\AB108\\Library_Management_System\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryItem.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\AB108\\Library_Management_System\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryItem.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:09:05.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryPerson.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\AB108\\Library_Management_System\\LibraryPerson.cs",
+              "RelativeDocumentMoniker": "LibraryPerson.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\AB108\\Library_Management_System\\LibraryPerson.cs",
+              "RelativeToolTip": "LibraryPerson.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:57:54.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\AB108\\Library_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\AB108\\Library_Management_System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:29:59.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

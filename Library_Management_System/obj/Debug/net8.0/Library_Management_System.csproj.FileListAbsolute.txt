@@ -1,0 +1,14 @@
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\bin\Debug\net8.0\Library_Management_System.exe
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\bin\Debug\net8.0\Library_Management_System.deps.json
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\bin\Debug\net8.0\Library_Management_System.runtimeconfig.json
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\bin\Debug\net8.0\Library_Management_System.dll
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\bin\Debug\net8.0\Library_Management_System.pdb
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\obj\Debug\net8.0\Library_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\obj\Debug\net8.0\Library_Management_System.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\obj\Debug\net8.0\Library_Management_System.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\obj\Debug\net8.0\Library_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\obj\Debug\net8.0\Library_Management_System.dll
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\obj\Debug\net8.0\refint\Library_Management_System.dll
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\obj\Debug\net8.0\Library_Management_System.pdb
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\obj\Debug\net8.0\Library_Management_System.genruntimeconfig.cache
+C:\Users\I Novbe\Desktop\AB108\Library_Management_System\obj\Debug\net8.0\ref\Library_Management_System.dll
